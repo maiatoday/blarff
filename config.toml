@@ -1,9 +1,9 @@
-#baseURL = "http://www.maiatoday.net/blarff/"
+#baseURL = "https://www.maiatoday.net/blarff/"
 #languageCode = "en-us"
 #title = "My New Hugo Site"
 #theme = "devfest-theme-hugo"
 
-baseURL = "http://www.devfest.co.za/"
+baseURL = "https://www.maiatoday.net/blarff/"
 languageCode = "en-us"
 title = "Devfest South Africa 2021"
 theme = "devfest-theme-hugo"
